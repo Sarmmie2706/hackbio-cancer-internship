@@ -28,4 +28,6 @@ Biomarker discovery is a powerful tool that greatly improves the efficacy of ICI
 
 **Le, D. T., Uram, J. N., Wang, H., Bartlett, B. R., Kemberling, H., Eyring, A. D., ... & Diaz Jr, L. A.** (2015). PD-1 blockade in tumors with mismatch-repair deficiency. _New England Journal of Medicine_, _372_(26), 2509-2520.
 
+**Zou, J., & Wang, E.** (2019). Cancer biomarker discovery for precision medicine: new progress. _Current medicinal chemistry_, _26_(42), 7655-7671.
+
  
